@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     /**/
     color: #39a6b2;
@@ -58,10 +64,4 @@ footer div {
 
 footer a {
     color: #024e76;
-}
-
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
 }
